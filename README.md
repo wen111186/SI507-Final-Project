@@ -57,7 +57,7 @@ Stats for Set8_Ace:
 {'total': 2986, 'wins': 1635, 'losses': 1351, 'win_rate': np.float64(0.548), 'top4_lift': np.float64(1.21)}
 
   
-# 5 How it works (high level)
+# 5 How it works 
 Load & merge the two raw CSVs, drop redundant cosmetic columns.
 
 Trait/Unit Lift
